@@ -4,4 +4,4 @@
 
 Powered by a team of visual artists with decades of experience working on the largest media projects.
 
-![ATSF Project Profile](Images/atsf_profile.png)
+![ATSF Project Profile](Images/atsf_ship_landing_on_moon_v001.png)
